@@ -8,12 +8,3 @@ print( 2 * 2 + 2 == 2 * (2 +2))
 print(float(123.456 * 10 ))
 print(float(123.456 * 10))
 print(int(1234.56 % 10))
-
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('Мир')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-print(8 * 10)
